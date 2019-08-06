@@ -1,0 +1,27 @@
+---
+title: "Flexdash_blogdown"
+author: "RCJ"
+date: "06/08/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The goal here is to product flexdashboard output that can be accessed within a blogdown site.
+
+Juanma opened an Rstudio Community Post on this in April, 2019. 
+
+https://community.rstudio.com/t/blogdown-and-flexdashboard/27842
+
+Which was followed up promptly by Rstudio staff pointing here: 
+
+https://blogdown-demo.rbind.io/2017/09/06/adding-r-markdown-documents-of-other-output-formats/ 
+
+
+That resulting in another post fron Juanma (7 April) which concluded: "and it seems it's not working".  Thereafter radio silence.
+
+
+
+
